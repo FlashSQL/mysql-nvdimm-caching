@@ -2,6 +2,10 @@
 
 Optimize MySQL/InnoDB using NVDIMM 
 
+## Publication
+- Mijin An, Jonghyeok Park, Tianzheng Wang, Beomseok Nam, and Sang-Won Lee, "NV-SQL: Boosting OLTP Performance with Non-Volatile DIMMs", VLDB'23
+- [Publication Link](https://dl.acm.org/doi/10.14778/3583140.3583159)
+
 ## Build and install
 
 1. Clone the source code: 
